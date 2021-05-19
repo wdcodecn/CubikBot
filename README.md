@@ -3,6 +3,7 @@
 >模块化，简单易用，使用Java编写，基于`YuQ-Mirai`框架的QQ机器人
 
 ## 🗃 相关项目
+* [kukubot](https://github.com/kukume/kukubot) (本项目有参考kukubot的部分代码以实现一些功能)
 * [YuQ-Mirai](https://github.com/YuQWorks/YuQ-Mirai)
 * [YuQ-Mirai-SuperDemo](https://github.com/YuQWorks/YuQ-SuperDemo)
 * [Mirai](https://github.com/mamoe/mirai)
